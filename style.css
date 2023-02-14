@@ -1,0 +1,68 @@
+
+body{
+        background-image: url('./white-gold-geometric-pattern-background-vector_53876-140726.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-size: 100% 100%;
+      }
+    
+ .navbar :hover {
+        color:grey;
+        background-color:rgb(208, 193, 106);}
+
+       
+.navbar a  { text-decoration-line: none;
+    color: grey;
+}
+ .navbar ul{
+    list-style-type: none;
+}
+.navbar li {float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+    font-weight:bold;
+    text-transform: uppercase;
+  
+}
+
+
+.myclass img { 
+    height: 200px;
+    width: 200px;
+
+    border-radius: 50%;
+    border-style: ridge;
+
+}
+.myclass ul {
+    color: black; 
+    list-style-type: none;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+
+}
+.myclass { text-align: center;
+}
+
+h1{
+        text-transform: uppercase;
+}
+p{font-size: large;
+}
+.myfooter li {float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+    font-weight:bold;
+    text-transform: uppercase;}
+.myfooter ul {
+        color: black; 
+        list-style-type: none;
+        font-size: large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight:bold;
+        }
+.myfooter{text-align: center;}
